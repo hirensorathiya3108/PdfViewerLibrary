@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PdfViewerLibrary</string>
+    <string name="cannot_open_document">The file cannot be opened, please check whether the file format is correct or not</string>
+    <string name="dismiss">Sure</string>
+</resources>
