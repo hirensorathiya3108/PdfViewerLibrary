@@ -21,10 +21,12 @@ import android.widget.ProgressBar;
 
 import androidx.appcompat.widget.AppCompatImageView;
 
-import com.lonelypluto.pdflibrary.utils.SharedPreferencesUtil;
+
+import com.artifex.mupdfdemo.utils.SharedPreferencesUtil;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+
 
 // Make our ImageViews opaque to optimize redraw
 class OpaqueImageView extends AppCompatImageView {

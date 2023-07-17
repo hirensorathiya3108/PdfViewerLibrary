@@ -20,7 +20,7 @@ import com.artifex.mupdfdemo.ReaderView
 
 class MainActivity : AppCompatActivity() {
     private val WRITE_EXTERNAL_STORAGE_REQUEST_CODE = 101
-    private val filePath = Environment.getExternalStorageDirectory().toString() + "/WhatsApp/Media/WhatsApp Documents/તેજાણી કેયુર સજોડે  આમંત્રણ.pdf" // 文件路径
+    private val filePath = Environment.getExternalStorageDirectory().toString() + "/Documents/AllPdf/Split/2 Types of Files in Asp.pdfpage1.pdf" // 文件路径
     private var muPDFCore: MuPDFCore? = null
     private var muPDFReaderView: MuPDFReaderView? = null
 

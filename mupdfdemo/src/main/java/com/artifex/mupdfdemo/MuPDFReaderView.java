@@ -12,8 +12,9 @@ import android.view.WindowManager;
 
 import androidx.core.content.ContextCompat;
 
-import com.lonelypluto.pdflibrary.constants.SPConsts;
-import com.lonelypluto.pdflibrary.utils.SharedPreferencesUtil;
+import com.artifex.mupdfdemo.constants.SPConsts;
+import com.artifex.mupdfdemo.utils.SharedPreferencesUtil;
+
 
 public class MuPDFReaderView extends ReaderView {
 
